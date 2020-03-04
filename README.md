@@ -448,7 +448,7 @@ Woohoo!
 [guide-migrations]: http://guides.rubyonrails.org/v3.2.8/migrations.html
 [repo]: https://github.com/learn-co-students/mechanics-of-migrations-v-000
 [change-method]: http://edgeguides.rubyonrails.org/active_record_migrations.html#using-the-change-method
-[writing-mig]: http://guides.rubyonrails.org/migrations.html#writing-a-migration
+[writing-mig]:  http://guides.rubyonrails.org/migrations.html#writing-a-migration
 [crud]: http://guides.rubyonrails.org/active_record_basics.html#crud-reading-and-writing-data
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/mechanics-of-migrations'>Mechanics of Migrations</a> on Learn.co and start learning to code for free.</p>
